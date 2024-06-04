@@ -3,6 +3,5 @@ class Solution {
         String[] words = s.split(" ");
         return words[( words.length-1)].length();
        
-        
     }
 }
